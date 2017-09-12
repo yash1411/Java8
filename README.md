@@ -1,4 +1,3 @@
-# Java8
 # JAVA 8 Features
 
 Prepared by Yash Sharma
